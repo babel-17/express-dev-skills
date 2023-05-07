@@ -1,4 +1,4 @@
-// controllers/todos.js
+// controllers/skills.js
 
 
 // we call variables that hold/reference models singular and in uppercase

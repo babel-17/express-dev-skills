@@ -27,7 +27,7 @@ const skills = [
   function create (skill) {
     // add the id
     skill.id = Date.now() % 1000000;
-    // new skills wouldnt be learned 
+    // new skills wouldn't be learned 
     skill.learned = false;
     skills.push(skill);
   }
